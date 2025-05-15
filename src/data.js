@@ -40,13 +40,13 @@ const DATA = [
         transactions: [
             {
                 title: "Fund transfer", 
-                amount: 2000,
+                amount: 20000,
                 type: "debit", 
                 date: "October 1, 2021"
             }, 
             {
                 title: "Withdraw", 
-                amount: 10000, 
+                amount: 100000, 
                 type: "debit",
                 date: "October 1, 2021"
             }

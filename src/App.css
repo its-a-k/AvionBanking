@@ -15,9 +15,9 @@
 }
 
 body {
-    font-family: var(--font-family);
     color: var(--text-color);
     background-color: var(--first-color);
+    font-family: var(--font-family);
 }
 
 hr {
